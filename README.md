@@ -3,4 +3,4 @@ Predicting wages by years of experience in a small enterprise. In this case it w
 
 # Results:
 
-![](Simple-Linear-Regression-Wages-vs-YearsExp/SLR_Test.png)
+![](SLR_Test.png)
